@@ -1,4 +1,4 @@
-package count
+package hystrix
 
 import (
 	"sync/atomic"
